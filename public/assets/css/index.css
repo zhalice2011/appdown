@@ -1,0 +1,81 @@
+@charset "UTF-8";body,input{font-family:"microsoft Yahei"}.swiper-container,.swiper-slide,.swiper-wrapper{-webkit-tap-highlight-color:transparent!important}.hide-abs{position:absolute;left:-9999rem;top:-9999rem}@-webkit-keyframes zoomInRight{from{opacity:0;-webkit-transform:scale3d(.1,.1,.1) translate3d(1000px,0,0);transform:scale3d(.1,.1,.1) translate3d(1000px,0,0);-webkit-animation-timing-function:cubic-bezier(.55,.055,.675,.19);animation-timing-function:cubic-bezier(.55,.055,.675,.19)}60%{opacity:1;-webkit-transform:scale3d(.475,.475,.475) translate3d(-10px,0,0);transform:scale3d(.475,.475,.475) translate3d(-10px,0,0);-webkit-animation-timing-function:cubic-bezier(.175,.885,.32,1);animation-timing-function:cubic-bezier(.175,.885,.32,1)}}@keyframes zoomInRight{from{opacity:0;-webkit-transform:scale3d(.1,.1,.1) translate3d(1000px,0,0);transform:scale3d(.1,.1,.1) translate3d(1000px,0,0);-webkit-animation-timing-function:cubic-bezier(.55,.055,.675,.19);animation-timing-function:cubic-bezier(.55,.055,.675,.19)}60%{opacity:1;-webkit-transform:scale3d(.475,.475,.475) translate3d(-10px,0,0);transform:scale3d(.475,.475,.475) translate3d(-10px,0,0);-webkit-animation-timing-function:cubic-bezier(.175,.885,.32,1);animation-timing-function:cubic-bezier(.175,.885,.32,1)}}@-webkit-keyframes start3{0%,30%{opacity:0;-webkit-transform:translateY(-8px);transform:translateY(-8px)}60%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}100%{opacity:0;-webkit-transform:translateY(10px);transform:translateY(10px)}}@keyframes start3{0%,30%{opacity:0;-webkit-transform:translateY(-8px);transform:translateY(-8px)}60%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}100%{opacity:0;-webkit-transform:translateY(10px);transform:translateY(10px)}}@-webkit-keyframes start{0%,30%{opacity:0;-webkit-transform:translate(-50%,-8px);transform:translate(-50%,-8px)}60%{opacity:1;-webkit-transform:translate(-50%,0);transform:translate(-50%,0)}100%{opacity:0;-webkit-transform:translate(-50%,10px);transform:translate(-50%,10px)}}@keyframes start{0%,30%{opacity:0;-webkit-transform:translate(-50%,-8px);-ms-transform:translate(-50%,10px);transform:translate(-50%,-8px)}60%{opacity:1;-webkit-transform:translate(-50%,0);-ms-transform:translate(-50%,0);transform:translate(-50%,0)}100%{opacity:0;-webkit-transform:translate(-50%,10px);-ms-transform:translate(-50%,-8px);transform:translate(-50%,10px)}}@-webkit-keyframes moveFromLeft{from{-webkit-transform:translateX(-100%)}}@keyframes moveFromLeft{from{-webkit-transform:translateX(-100%);transform:translateX(-100%)}}@-webkit-keyframes bounce{20%,53%,80%,from,to{-webkit-animation-timing-function:cubic-bezier(.215,.61,.355,1);animation-timing-function:cubic-bezier(.215,.61,.355,1);-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}40%,43%{-webkit-animation-timing-function:cubic-bezier(.755,.05,.855,.06);animation-timing-function:cubic-bezier(.755,.05,.855,.06);-webkit-transform:translate3d(0,-30px,0);transform:translate3d(0,-30px,0)}70%{-webkit-animation-timing-function:cubic-bezier(.755,.05,.855,.06);animation-timing-function:cubic-bezier(.755,.05,.855,.06);-webkit-transform:translate3d(0,-15px,0);transform:translate3d(0,-15px,0)}90%{-webkit-transform:translate3d(0,-4px,0);transform:translate3d(0,-4px,0)}}@keyframes bounce{20%,53%,80%,from,to{-webkit-animation-timing-function:cubic-bezier(.215,.61,.355,1);animation-timing-function:cubic-bezier(.215,.61,.355,1);-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}40%,43%{-webkit-animation-timing-function:cubic-bezier(.755,.05,.855,.06);animation-timing-function:cubic-bezier(.755,.05,.855,.06);-webkit-transform:translate3d(0,-30px,0);transform:translate3d(0,-30px,0)}70%{-webkit-animation-timing-function:cubic-bezier(.755,.05,.855,.06);animation-timing-function:cubic-bezier(.755,.05,.855,.06);-webkit-transform:translate3d(0,-15px,0);transform:translate3d(0,-15px,0)}90%{-webkit-transform:translate3d(0,-4px,0);transform:translate3d(0,-4px,0)}}@-webkit-keyframes rotateUnfoldTop{from{opacity:0;-webkit-transform:translateY(-100%)}}@keyframes rotateUnfoldTop{from{opacity:0;-webkit-transform:translateY(-100%);transform:translateY(-100%)}}@-webkit-keyframes flipInBottom{from{-webkit-transform:translateZ(-1000px);opacity:.2}}@keyframes flipInBottom{from{-webkit-transform:translateZ(-1000px);transform:translateZ(-1000px);opacity:.2}}@-webkit-keyframes moveFromBottomFade{from{opacity:0;-webkit-transform:translateY(50%)}}@keyframes moveFromBottomFade{from{opacity:0;-webkit-transform:translateY(50%);transform:translateY(50%)}}@-webkit-keyframes rotateSidesIn{0%,20%,40%,60%{opacity:0;-webkit-transform:translateZ(-500px)}80%{opacity:1;-webkit-transform:skew(-35deg);transform:skew(-35deg)}100%{-webkit-transform:skew(0)}}@keyframes rotateSidesIn{0%,20%,40%,60%{opacity:0;-webkit-transform:translateZ(-500px);transform:translateZ(-500px)}80%{opacity:1;-webkit-transform:skew(-35deg);transform:skew(-35deg)}100%{-webkit-transform:skew(0)}}@-webkit-keyframes moveFromTopFade{from{opacity:.3;-webkit-transform:translateY(-10%)}}@keyframes moveFromTopFade{from{opacity:.3;-webkit-transform:translateY(-10%);transform:translateY(-10%)}}@-webkit-keyframes down{0%{opacity:0;-webkit-transform:translate3d(0,10%,0);transform:translate3d(0,10%,0)}100%{opacity:1;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}}@keyframes down{0%{opacity:0;-webkit-transform:translate3d(0,10%,0);transform:translate3d(0,10%,0)}100%{opacity:1;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}}.games_levy{height:100%;background-color:#ddd;font-size:1.1rem;color:#fff}.games_levy .next-tip{position:absolute;bottom:4%;left:50%;width:3.65rem;margin-left:-1.825rem;-webkit-animation:start3 1.5s infinite ease-in-out;animation:start3 1.5s infinite ease-in-out}.games_levy .light-txt{color:#fcca46;font-weight:700}.games_levy .main-swiper{width:100%;height:100%;background:url(../img/bg2.jpg) center top/100% no-repeat #373889;background-size:100%}.games_levy .slide-1,.games_levy .slide-2,.games_levy .slide-3,.games_levy .slide-4,.games_levy .slide-5,.games_levy .slide-6,.games_levy .slide-7,.games_levy .slide-8{width:100%;-webkit-box-sizing:border-box;box-sizing:border-box;padding:4.3% 6% 0;position:relative;z-index:1}.games_levy .swiper-slide.swiper-slide-active .cnt-wrap{-webkit-animation:moveFromTopFade 1s ease both;animation:moveFromTopFade 1s ease both}.games_levy .swiper-slide.swiper-slide-active .logo{-webkit-animation:moveFromLeft .6s ease both;animation:moveFromLeft .6s ease both}.games_levy .swiper-slide.swiper-slide-active .slogan{-webkit-animation:moveFromBottomFade .7s ease both;animation:moveFromBottomFade .7s ease both}.games_levy .swiper-slide.swiper-slide-active.slide-1 .act-time{-webkit-animation:moveFromBottomFade .7s ease both;animation:moveFromBottomFade .7s ease both;-webkit-animation-delay:.2s;animation-delay:.2s}.games_levy .loading{width:100%;height:100%;background:#070d36;position:relative}.games_levy .skype-loader{width:8rem;height:8rem;position:absolute;top:10rem;left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%)}.games_levy .skype-loader .dot{position:absolute;top:0;left:0;width:8rem;height:8rem;-webkit-animation:1.7s dotrotate ease-in-out infinite;animation:1.7s dotrotate ease-in-out infinite}.games_levy .load-inner{width:5rem;height:5rem;top:11.5rem}.games_levy .load-inner .dot{width:5rem;height:5rem;-webkit-animation:1.7s dotrotate cubic-bezier(.775,.005,.31,1) infinite;animation:1.7s dotrotate cubic-bezier(.775,.005,.31,1) infinite}.games_levy .skype-loader .dot:nth-child(1){-webkit-animation-delay:.1s;animation-delay:.1s}.games_levy .skype-loader .dot:nth-child(2){-webkit-animation-delay:.11s;animation-delay:.11s}.games_levy .skype-loader .dot:nth-child(3){-webkit-animation-delay:.12s;animation-delay:.12s}.games_levy .skype-loader .dot:nth-child(4){-webkit-animation-delay:.13s;animation-delay:.13s}.games_levy .skype-loader .dot:nth-child(5){-webkit-animation-delay:.14s;animation-delay:.14s}.games_levy .skype-loader .dot:nth-child(6){-webkit-animation-delay:.15s;animation-delay:.15s}.games_levy .skype-loader .dot:nth-child(7){-webkit-animation-delay:.16s;animation-delay:.16s}.games_levy .skype-loader .dot:nth-child(8){-webkit-animation-delay:.17s;animation-delay:.17s}.games_levy .skype-loader .dot:nth-child(9){-webkit-animation-delay:.18s;animation-delay:.18s}.games_levy .skype-loader .dot:nth-child(10){-webkit-animation-delay:.19s;animation-delay:.19s}.games_levy .skype-loader .dot:nth-child(11){-webkit-animation-delay:.2s;animation-delay:.2s}.games_levy .skype-loader .dot:nth-child(12){-webkit-animation-delay:.21s;animation-delay:.21s}.games_levy .skype-loader .dot:nth-child(13){-webkit-animation-delay:.22s;animation-delay:.22s}.games_levy .skype-loader .dot:nth-child(14){-webkit-animation-delay:.23s;animation-delay:.23s}.games_levy .skype-loader .dot:nth-child(15){-webkit-animation-delay:.24s;animation-delay:.24s}.games_levy .skype-loader .dot .first,.games_levy .skype-loader .dot:after{content:"";position:absolute;width:.4rem;height:.4rem;background:#fff;border-radius:50%;left:50%;margin-left:-.2rem}@-webkit-keyframes dotrotate{from{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes dotrotate{from{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@-webkit-keyframes dotscale{0%,10%,100%,90%{width:.8rem;height:.8rem;margin-left:-.4rem;margin-top:-.2rem}50%{width:.4rem;height:.4rem;margin-left:-.2rem;margin-top:0}}@keyframes dotscale{0%,10%,100%,90%{width:.8rem;height:.8rem;margin-left:-.4rem;margin-top:-.2rem}50%{width:.4rem;height:.4rem;margin-left:-.2rem;margin-top:0}}.games_levy .slide-1{background:url(../img/bg1.jpg) center top/100% no-repeat #373889;background-size:100%;text-align:center}.games_levy .slide-1 .logo{margin-bottom:2rem}.games_levy .slide-1 .logo img{width:100%}.games_levy .slide-1 .slogan{width:100%;height:9rem;background:url(../img/mtm.png) center 0/100% no-repeat;background-size:100%;margin-bottom:2rem}.games_levy .slide-1 .act-time{font-size:1.6rem;color:#153964}.games_levy .slide-1 .act-time .time{font-weight:700}.games_levy .cnt-wrap{height:44rem;margin-top:5rem;background:rgba(6,5,46,.75);padding:3rem 2rem;-webkit-box-sizing:border-box;box-sizing:border-box;overflow-y:auto;-webkit-overflow-scrolling:touch}.games_levy .cnt-wrap::-webkit-scrollbar{width:.3rem;background-color:transparent;border-radius:.15rem}.games_levy .cnt-wrap::-webkit-scrollbar-thumb{background-color:rgba(68,134,217,.45);border-radius:.15rem}.games_levy .apply-way{font-size:1.1rem;font-weight:700;color:#fff;position:absolute;bottom:6rem;left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%);text-align:center}.games_levy .p-tit{font-size:1.6rem;line-height:1.6rem;font-weight:700;position:relative;margin-bottom:1.25rem;padding-bottom:.75rem;border-bottom:1px solid rgba(68,134,217,.2)}.games_levy .p-tit:before{content:'';display:block;width:.2rem;height:1.6rem;background:#386db8;position:absolute;left:-.85rem;top:0;margin-top:.1rem}.games_levy .p-cnt{margin-bottom:2.7rem}.games_levy .p-intro{margin-bottom:1.3rem}.games_levy .p-list{margin-top:.5rem}.games_levy .p-list .p-item{position:relative;padding-left:1.8rem;margin-bottom:.5rem}.games_levy .p-list .p-num{position:absolute;left:0}.games_levy .slide-2 .sec-tit{font-size:1.9rem;font-weight:700;color:#fff;text-align:center;margin-bottom:.7rem}.games_levy .slide-2 .main-intro{margin-bottom:2.4rem}.games_levy .slide-2 .other-intro{font-size:1rem;color:#f6443f;margin-bottom:1rem}.games_levy .slide-2 .act-time{text-align:center;margin-bottom:2rem}.games_levy .slide-2 .act-time .time{font-size:1.2rem;font-weight:700;display:inline-block;line-height:3rem;padding:0 .9rem;color:#fcca46;background:url(../img/time_bg.png) center 0/100% no-repeat}.games_levy .slide-7 .cnt-wrap,.games_levy .slide-8 .cnt-wrap{padding-bottom:0}.games_levy .slide-5 .p-cnt,.games_levy .slide-6 .p-intro{margin-bottom:0}.games_levy .slide-6 .sec-tit{margin-bottom:1.1rem}.games_levy .slide-7 .p-cnt{margin-bottom:0}.games_levy .slide-7 .works-list{width:100%;min-width:27.5rem;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-flow:row wrap;flex-flow:row wrap;overflow-y:auto;-webkit-overflow-scrolling:touch;height:37rem;overflow:auto;padding-right:1.2rem}.games_levy .slide-7 .works-list::-webkit-scrollbar{width:.3rem;background-color:transparent;border-radius:.15rem}.games_levy .slide-7 .works-list::-webkit-scrollbar-thumb{background-color:rgba(68,134,217,.45);border-radius:.15rem}.games_levy .slide-7 .works-item{margin-bottom:.8rem}.games_levy .slide-7 .img-box{width:13.5rem;height:8.5rem;overflow:hidden;-webkit-box-sizing:border-box;box-sizing:border-box;border:.15rem solid #fff;margin-bottom:.8rem}.games_levy .slide-7 .img-box img{width:100%;height:100%}.games_levy .slide-7 .works-name{text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.games_levy .slide-8 .partner-wrap{width:100%;height:36rem;padding-right:.4rem;position:relative}.games_levy .slide-8 .p-cnt{margin-bottom:0}.games_levy .slide-8 .partner-pic{width:100%}.games_levy .slide-8 .leader-box{height:100%;width:100%;overflow-y:scroll;padding-right:1.4rem}.games_levy .slide-8 .leader-box::-webkit-scrollbar{width:.3rem;background-color:transparent}.games_levy .slide-8 .leader-box::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(68,134,217,.45)}@media screen and (max-width:319px){.games_levy .slide-7{padding-left:1%;padding-right:1%}}@media screen and (max-height:571px){.games_levy .cnt-wrap{margin-top:2rem;padding:2rem}.slide-8 .apply-way{bottom:.5rem}.games_levy .p-tit{margin-bottom:1rem}.games_levy .p-list .p-item{margin-bottom:.3rem}.games_levy .slide-2 .act-time,.games_levy .slide-2 .main-intro{margin-bottom:1.4rem}.games_levy .p-intro{margin-bottom:1rem}}
+.download_box {
+    position: absolute;
+    top: 79%;
+    left: 1%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.use-teacher{
+    position: absolute;
+    top: 50%;
+    left: 1%;
+    width: 100%;
+    justify-content: center;
+}
+.use-teacher a{
+    display: block
+}
+.first-a {
+   margin-bottom: 10px
+}
+li {
+    list-style: none outside none;
+}
+.download_box li a {
+    display: block;
+    margin: 20px 0;
+    padding: 5px 15px;
+    border: 1px solid #97cdff;
+    border-radius: 30px;
+    overflow: hidden;
+}
+a {
+    color: #0260af;
+    text-decoration: none;
+    cursor: pointer;
+}
+.iphone_icon {
+    width: 30px;
+    height: 30px;
+    background: url(../img/iphone_icon.png) no-repeat;
+    display: inline-block;
+    background-size: 84%;
+}
+.iphone_word {
+    width: 150px;
+    height: 22px;
+    background: url(../img/iphone_word.png) no-repeat;
+    display: inline-block;
+    background-size: 100%;
+}
+.Android_icon {
+    width: 30px;
+    height: 30px;
+    background: url(../img/android_icon.png) no-repeat;
+    display: inline-block;
+    background-size: 84%;
+}
+.Android_word {
+    width: 150px;
+    height: 22px;
+    background: url(../img/android_word.png) no-repeat;
+    display: inline-block;
+    background-size: 100%;
+}
+.games_levy .slide-1 .logo img {
+    width: 78%;
+}
+.games_levy .slide-1 .slogan{margin:0 auto;width:20%}
+.weixinwrap{
+    padding-top: 68px;
+    text-align: center;
+}
+.logowrap{
+    padding-top: 30px;
+    text-align: center; 
+}
+.weixinwrap .partner-pic{
+    width: 50%
+}

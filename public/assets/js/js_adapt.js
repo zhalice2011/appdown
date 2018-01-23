@@ -1,0 +1,1 @@
+!function(x){function w(){var r=x.document.documentElement,a=r.getBoundingClientRect().width;r.style.fontSize=a>=562.5?"15px":a<=320?"8.53px":a/37.5+"px"}x.addEventListener("resize",function(){w()}),w()}(window);
